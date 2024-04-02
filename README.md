@@ -1,0 +1,1 @@
+# Kata_02_04_2024_Get_the_mean_of_an_array
