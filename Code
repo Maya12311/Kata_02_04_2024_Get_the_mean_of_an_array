@@ -1,0 +1,12 @@
+public class School{
+
+ 	public static int getAverage(int[] marks){
+    int sum = 0;
+    for(int one : marks){
+      sum +=one;
+    }
+    
+		return sum/marks.length;
+	}
+
+}
